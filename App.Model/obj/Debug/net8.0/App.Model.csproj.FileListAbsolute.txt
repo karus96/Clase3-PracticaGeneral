@@ -1,0 +1,11 @@
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\bin\Debug\net8.0\App.Model.deps.json
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\bin\Debug\net8.0\App.Model.dll
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\bin\Debug\net8.0\App.Model.pdb
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\App.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\App.Model.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\App.Model.AssemblyInfo.cs
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\App.Model.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\App.Model.dll
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\refint\App.Model.dll
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\App.Model.pdb
+C:\Users\ricar\source\repos\PracticaClase3\App.Model\obj\Debug\net8.0\ref\App.Model.dll
